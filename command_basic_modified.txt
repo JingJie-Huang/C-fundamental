@@ -1,0 +1,4 @@
+g++ -c basic_modified.cpp
+g++ -c library.cpp 
+g++ -o Basic_modified basic_modified.o library.o
+./Basic_modified

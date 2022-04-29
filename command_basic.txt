@@ -1,0 +1,3 @@
+g++ -c basic.cpp
+g++ -o Basic basic.o
+./Basic
